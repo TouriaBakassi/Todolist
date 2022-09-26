@@ -3,15 +3,15 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Navbar from "./Components/Navbar";
-import Home from "./Home";
-import Features from "./Features";
-import Overview from "./Overview";
-import User from "./User";
-import Pricing from "./Pricing";
-import Team from "./Team";
-import Ayro from "./Ayro";
-import Install from "./Install";
-import FAQ from "./FAQ";
+import Home from "./Components/Home";
+import Features from "./Components/Features";
+import Overview from "./Components/Overview";
+import User from "./Components/User";
+import Pricing from "./Components/Pricing";
+import Team from "./Components/Team";
+import Ayro from "./Components/Ayro";
+import Install from "./Components/Install";
+import FAQ from "./Components/FAQ";
 
 
 
