@@ -23,3 +23,15 @@ body {
 #textlight{
   color:rgb(252, 94, 163);
 }
+
+
+/* State */
+.redcolor{
+  color: red;
+}
+.greencolor{
+  color: green;
+}
+.bluecolor{
+  color: blue;
+}
