@@ -1,0 +1,12 @@
+#AyroP1{
+    text-align: center;
+    margin: 10px 200px
+}
+#AyroP2{
+    color: gray;
+}
+.rounded {
+    width: 80px;
+    height: 80px;
+    /* border-radius: 50%; */
+}

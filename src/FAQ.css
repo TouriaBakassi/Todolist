@@ -1,0 +1,14 @@
+#FAQ {
+    margin: 10px 300px;
+    padding-bottom: 30px;
+}
+.accordion{
+    width: 70%;
+    
+}
+.Accord{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 60px;
+}

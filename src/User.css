@@ -1,0 +1,44 @@
+#parti4{
+    background-color:rgb(252, 94, 163);
+    height: 50vh;
+}
+
+#headparti4{
+    font-size: 50px;
+    font-weight: 600;
+}
+.flex-container2 {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 35px;
+    padding-top: 40px;
+    gap: 10px;
+  }
+  .flex-container2 > div {
+    width: 15%;
+    height: 35vh;
+    padding: 5px;
+    margin: 10px 0px;
+    text-align: center;
+    font-weight: 100;
+  }
+  .flex-container2 h3 {
+    font-size: 40px;
+    font-weight: 600;
+    margin: 15px;
+    text-align: center;
+    display: inline-block;
+    
+  }
+  
+  .flex-container2 p {
+    font-size: 20px;
+    font-weight: 80;
+    padding-left: 8px;
+    text-align: center;
+    font-family: Open_sans, sans-serif;
+    
+  }
