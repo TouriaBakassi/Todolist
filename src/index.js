@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+import Todolist from "./Todolist.jsx";
 import Navbar from "./Components/Navbar";
 import Home from "./Components/Home";
 import Features from "./Components/Features";
@@ -106,8 +107,8 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
 
   <React.StrictMode>
-
-    <State />
+<Todolist />
+    {/* <State /> */}
     {/* <Navbar />
     <Home />
     <Features
